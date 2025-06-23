@@ -1,0 +1,43 @@
+/* MAIN */
+
+#content{
+    display: flex;
+    flex-direction: column;
+    color: rgb(214, 164, 37);
+    justify-content: center;
+    align-items: center;
+    gap: 3.5rem;
+}
+
+.menu-title{
+    font-size: 3.5rem;
+    font-weight: 800;
+    letter-spacing: 0.1rem;
+    text-shadow: 2px 3px 20px black;
+}
+
+.menu-content {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+
+.menu-content{
+    text-align: center;
+    width: 60ch;
+    line-height: 2rem;
+    font-weight: 500;
+    font-size: 1.2rem;
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
